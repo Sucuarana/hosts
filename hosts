@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-08-11T02:40:27+00:00
-# Number of unique domains: 10
+# Date: 2020-08-11T04:21:08+00:00
+# Number of unique domains: 11
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -29,3 +29,7 @@
 0.0.0.0 www.lrog.bazarelettrico.it
 0.0.0.0 dkpz.bernardoguardieditore.it
 0.0.0.0 www.dkpz.bernardoguardieditore.it
+
+# User Behavior / Tracking / Digital Analytics
+0.0.0.0 reportm.tim.glassboxdigital.io
+
