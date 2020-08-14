@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-08-12T05:50:23+00:00
-# Number of unique domains: 12
+# Date: 2020-08-14T16:01:34+00:00
+# Number of unique domains: 15
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -9,6 +9,7 @@
 # ===============================================================
 
 # Cloaking / Sneaky redirects
+#
 0.0.0.0 ce.refincasa.it
 0.0.0.0 www.ce.refincasa.it
 0.0.0.0 tzfz.becomsrl.it
@@ -33,5 +34,13 @@
 0.0.0.0 www.wallfree.cluster013.ovh.net
 
 # User Behavior / Tracking / Digital Analytics
+#
 0.0.0.0 reportm.tim.glassboxdigital.io
 
+# Ads
+# Data collection, behavioral analysis or retargeting.
+#
+0.0.0.0 8211687.fls.doubleclick.net
+0.0.0.0 www.8211687.fls.doubleclick.net
+0.0.0.0 adservice.google.com.br
+0.0.0.0 98bcc23e54537f148885f52e6aa6342e.safeframe.googlesyndication.com
