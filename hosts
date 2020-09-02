@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-08-15T01:25:59+00:00
-# Number of unique domains: 23
+# Date: 2020-09-02T17:25:45+00:00
+# Number of unique domains: 24
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -56,3 +56,4 @@
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 prebid-us.creativecdn.com
 0.0.0.0 prebid.digitru.st
+0.0.0.0 server.gblcdn.com
