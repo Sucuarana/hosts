@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-09-02T17:25:45+00:00
-# Number of unique domains: 24
+# Date: 2020-09-14T16:54:27+00:00
+# Number of unique domains: 25
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -31,6 +31,8 @@
 0.0.0.0 www.dkpz.bernardoguardieditore.it
 0.0.0.0 wallfree.cluster013.ovh.net
 0.0.0.0 www.wallfree.cluster013.ovh.net
+0.0.0.0 asiap4.com
+0.0.0.0 www.asiap4.com
 
 # Automatically generated content
 0.0.0.0 diarioesportes.com
