@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-12-14T22:20:07+00:00
-# Number of unique domains: 27
+# Date: 2020-12-14T22:28:09+00:00
+# Number of unique domains: 28
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -53,6 +53,10 @@
 0.0.0.0 onesignal.com
 0.0.0.0 www.onesignal.com
 0.0.0.0 api.onesignal.com
+0.0.0.0 m.t.tailtarget.com
+0.0.0.0 tt-12842-2.seg.t.tailtarget.com
+0.0.0.0 tt-9964-3.seg.t.tailtarget.com
+0.0.0.0 tt-10162-1.seg.t.tailtarget.com
 
 # Ads and related data
 0.0.0.0 8211687.fls.doubleclick.net
