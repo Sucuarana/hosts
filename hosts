@@ -1,6 +1,6 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-12-14T22:28:09+00:00
+# Date: 2020-12-14T22:34:26+00:00
 # Number of unique domains: 28
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
@@ -42,7 +42,9 @@
 
 # User Behavior / Tracking / Digital Analytics
 0.0.0.0 reportm.tim.glassboxdigital.io
+0.0.0.0 amp.navdmp.com
 0.0.0.0 cd.navdmp.com
+0.0.0.0 sync.navdmp.com
 0.0.0.0 sync2.navdmp.com
 0.0.0.0 usr.navdmp.com
 0.0.0.0 cdn.navdmp.com
