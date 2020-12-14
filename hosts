@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-09-14T16:54:27+00:00
-# Number of unique domains: 25
+# Date: 2020-12-14T02:27:18+00:00
+# Number of unique domains: 26
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -33,6 +33,8 @@
 0.0.0.0 www.wallfree.cluster013.ovh.net
 0.0.0.0 asiap4.com
 0.0.0.0 www.asiap4.com
+0.0.0.0 valid-install.com
+0.0.0.0 www.valid-install.com
 
 # Automatically generated content
 0.0.0.0 diarioesportes.com
