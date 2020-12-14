@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-12-14T02:27:18+00:00
-# Number of unique domains: 26
+# Date: 2020-12-14T22:20:07+00:00
+# Number of unique domains: 27
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -50,6 +50,9 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 in.hotjar.com
 0.0.0.0 do5ief0m.emltrk.com
+0.0.0.0 onesignal.com
+0.0.0.0 www.onesignal.com
+0.0.0.0 api.onesignal.com
 
 # Ads and related data
 0.0.0.0 8211687.fls.doubleclick.net
