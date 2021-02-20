@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2020-12-14T22:34:26+00:00
-# Number of unique domains: 28
+# Date: 2021-02-20T03:34:13+00:00
+# Number of unique domains: 31
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -70,3 +70,8 @@
 0.0.0.0 prebid-us.creativecdn.com
 0.0.0.0 prebid.digitru.st
 0.0.0.0 server.gblcdn.com
+
+# Parked Domains
+0.0.0.0 bodis.com
+0.0.0.0 comingsoon.namebright.com
+0.0.0.0 expired.namebright.com
