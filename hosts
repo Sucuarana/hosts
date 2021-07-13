@@ -1,7 +1,7 @@
 # Title: Suçuarana/hosts
 #
-# Date: 2021-02-20T03:34:13+00:00
-# Number of unique domains: 31
+# Date: 2021-07-13T03:34:13+00:00
+# Number of unique domains: 32
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Sucuarana/hosts/master/hosts
 # Project home page: https://github.com/Sucuarana/hosts
@@ -35,6 +35,8 @@
 0.0.0.0 www.asiap4.com
 0.0.0.0 valid-install.com
 0.0.0.0 www.valid-install.com
+0.0.0.0 guardfreefastspeed.cyou
+0.0.0.0 www.guardfreefastspeed.cyou
 
 # Automatically generated content
 0.0.0.0 diarioesportes.com
