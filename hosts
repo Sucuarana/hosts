@@ -38,6 +38,10 @@
 0.0.0.0 guardfreefastspeed.cyou
 0.0.0.0 www.guardfreefastspeed.cyou
 
+# Phishing
+0.0.0.0 ideal-secured.com
+0.0.0.0 www.ideal-secured.com
+
 # Automatically generated content
 0.0.0.0 diarioesportes.com
 0.0.0.0 www.diarioesportes.com
