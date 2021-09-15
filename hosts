@@ -77,6 +77,8 @@
 0.0.0.0 prebid.digitru.st
 0.0.0.0 server.gblcdn.com
 0.0.0.0 links.fresh8.co
+0.0.0.0 cdn.fresh8.co
+0.0.0.0 iframe-assets.fresh8.co
 
 # Parked Domains
 0.0.0.0 bodis.com
